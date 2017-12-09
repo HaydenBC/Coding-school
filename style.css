@@ -1,0 +1,28 @@
+.form{
+font size: 20px;
+text-align: center;
+position: relative;
+}
+
+.one{
+font-family: inherit;
+color: yellow;
+}
+
+.two{
+font-family:cursive;
+color: blue;
+}
+
+.three {
+font-family:sans-serif;
+color: green;
+}
+
+
+.four{
+font-family: monospace;
+color: brown;
+}
+
+

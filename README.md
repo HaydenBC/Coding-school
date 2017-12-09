@@ -1,2 +1,2 @@
-# Coding-school
-Me Hw and steff
+# coding-school-
+hw 1 
