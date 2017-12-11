@@ -90,4 +90,50 @@ background-repeat:no-repeat;
     z-index: -1;
 }
 
+.font4{
+    font-family: "MiraculousChristmas";
+    font-size: 50px;
+    position:re;
+}
+    
+.font5{
+    font-family: "MiraculousChristmas";
+    font-size: 50px;
+    margin-top: 200px;
+    font-weight: 100px;        
+    ;}
+    
+.redirect{
+    top:0px;
+    right: 200px;
+    position: relative;
+}
 
+.redirect2{
+   top:-88px;
+
+    position: relative;
+    left: -85px;
+}
+    
+
+.redirect3{
+    top:-165px;
+    position: relative;
+    left:50px;
+}
+    
+
+.redirect4{
+    top:-235px;
+    position: relative;
+    left:175px;
+ 
+}
+ 
+.box{
+    
+    
+}
+    
+    
