@@ -131,9 +131,52 @@ background-repeat:no-repeat;
  
 }
  
-.box{
+.form2{
+font-family: fantasy;
+font size: 20px;
+text-align: center;
+position: relative;
+}
+
+.text{
+    font-size: 30px;
+    margin-top: 200px;
+    font-weight: 100px;        
+    ;}
+
+.redirect7{
+   top:20px;
+
+    position: relative;
+    left: 100px;
+}
+
+.redirect8{
+   top:-65px;
+
+    position: relative;
+    left: -130px;
+}
+
+.redirect9{
+   top:-160px;
+
+    position: relative;
+    left: 50px;
+}
+
+.redirect10{
+   top:-313.5px;
+
+    position: relative;
+    left: 217px;
+}
+
+
+.background{
+background-repeat:no-repeat;
+background-size: cover
+    
     
     
 }
-    
-    
